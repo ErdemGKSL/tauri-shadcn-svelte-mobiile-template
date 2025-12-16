@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">tauri-shadcn-svelte-template</string>
+    <string name="main_activity_title">tauri-shadcn-svelte-template</string>
+</resources>
