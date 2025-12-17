@@ -11,8 +11,8 @@
     { href: "https://tauri.app", src: "/tauri.svg", alt: "Tauri Logo", hoverColor: "#24c8db" },
     { href: "https://svelte.dev", src: "/svelte.svg", alt: "SvelteKit Logo", hoverColor: "#ff3e00" },
     { href: "https://tailwindcss.com", src: "/tailwind.png", alt: "Tailwind Logo", hoverColor: "#38bdf8" },
-    { href: "https://shadcn.com", src: "/shadcn.png", alt: "Shadcn Logo", hoverColor: "#f9ab00" },
-    { href: "https://svelte.dev", src: "/android.png", alt: "Android Logo", hoverColor: "#3ddc84" }
+    { href: "https://www.shadcn-svelte.com/", src: "/shadcn.png", alt: "Shadcn Logo", hoverColor: "#f9ab00" },
+    { href: "https://www.android.com/intl/tr_tr/", src: "/android.png", alt: "Android Logo", hoverColor: "#3ddc84" }
   ];
 
   async function greet(event: Event) {
